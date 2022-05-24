@@ -2,9 +2,12 @@
 
 **Environment installation**
 test version:Thinkphp6.0.12
+
 Environment configuration：(tp6只支持用composer安装)
 	composer create-project topthink/think=6.0.12 tp612
+	
 Add deserialization entry point
+
 
 ```php
 <?php
